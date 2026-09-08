@@ -1,0 +1,31 @@
+{
+  "id": "intentshare",
+  "name": "IntentShare",
+  "subtitle": "Seriousness before exposure",
+  "category": "Software & AI",
+  "status": "Development paused",
+  "icon": "intentshare",
+  "summary": "A privacy-first evaluation and discovery platform designed to connect ideas, teams, talent, and opportunities through an Intent Score.",
+  "overview": "IntentShare proposes a shared credibility score for ideas, founders, student clubs, and talent. Its central principle is to assess seriousness and readiness before revealing an idea or identity to sponsors, institutions, or investors.",
+  "current_state": "A website was built using Emergent at intentshar.com. Further work is paused because of Emergent credit limits, as reported by the owner. The supplied documents describe a broader product vision; they do not establish which planned features were implemented. Current website availability has not been verified.",
+  "highlights": [
+    "Private idea submission and discovery based on project stage, sector, and readiness.",
+    "A proposed Intent Score combining AI-assisted analysis and human evaluation.",
+    "Planned workflows for clubs and competitions, company challenges, incubators, and collaboration."
+  ],
+  "next_focus": "Recover the existing website source and deployment configuration, document implemented features, and choose a sustainable path to resume development.",
+  "tags": [
+    "Privacy-first discovery",
+    "Intent Score",
+    "Emergent website"
+  ],
+  "website": "https://intentshar.com",
+  "website_label": "Original website · availability unverified",
+  "repository_slug": "intentshare",
+  "repository_url": "https://github.com/Rohansashankreddy07/intentshare",
+  "sources": [
+    "intentshare.1.docx",
+    "INTENTSHARE.docx",
+    "Owner’s website and credit-limit update"
+  ]
+}
